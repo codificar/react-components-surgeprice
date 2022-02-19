@@ -36,7 +36,7 @@ Add your API key to your manifest file (`android/app/src/main/AndroidManifest.xm
 Add the Heatmap API server domain (`App.js`):
 
 ```javascript
-  const server = '192.168.0.12:8000' // REPLACE WITH YOU API SERVER IP
+  const server = '192.168.0.12:8000' // REPLACE WITH HEATMAP API SERVER IP
 ```
 
 ## Run on Android
