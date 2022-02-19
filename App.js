@@ -6,7 +6,7 @@ import mapStyle from './MapStyle';
 import SurgeMarker from './SurgeMarker';
 
 export default App = () => {
-  const server = '192.168.0.12:8000' // REPLACE WITH YOU API SERVER IP
+  const server = '192.168.0.12:8000' // REPLACE WITH HEATMAP API SERVER IP
   const [isLoading, setLoading] = useState(true);
   const [hasData, setHasData] = useState(false);
   const [heatmaps, setHeatmapsData] = useState([]);
