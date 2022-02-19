@@ -54,3 +54,4 @@ buck-out/
 /ios/Podfile.lock
 *.xcarchive
 debug.keystore
+package-lock.json
